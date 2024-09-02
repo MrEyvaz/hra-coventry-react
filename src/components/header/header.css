@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.d-flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(66,167,191);
+    color: white;
+    padding: 10px;
+    gap: 200px;
+}
+
+.header-icons svg {
+    margin-left: 15px;
+}
