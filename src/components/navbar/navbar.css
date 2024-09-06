@@ -1,12 +1,15 @@
 * {
-    font-family: sans-serif;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
 }
 
 .d-flex-nav {
     display: flex;
     justify-content: space-around;
     margin-top: 30px;
-    font-size: 21px;
+    font-size: 19px;
+    color: #262d67  
 }
 
 .nav-links ul {
@@ -15,17 +18,17 @@
     align-items: center;
 }
 
-.nav-links li{
+.nav-links li {
     margin-left: 40px;
 }
 
-.nav-links button{
+.nav-links button {
     margin-left: 40px;
     border: 0px;
     background-color: #42a7bf;
     width: 130px;
-    padding: 11px;
+    padding: 9px;
     border-radius: 13px;
     color: white;
-    font-size: 18px;
+    font-size: 17px;
 }

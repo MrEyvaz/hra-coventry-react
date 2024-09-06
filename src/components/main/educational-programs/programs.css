@@ -1,0 +1,40 @@
+.d-grid {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    justify-content: center;
+    gap: 90px;
+    color: #262d67;
+    margin-top: 60px;
+}
+
+.program-icon {
+    margin-top: 40px;
+    margin-left: 80px;
+}
+
+.card-button {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    width: 31%;
+    border: 0px;
+    padding: 8px;
+    background-color: #42a7bf;
+    color: white;
+    border-radius: 10px;
+    margin-top: 25px;
+}
+
+.card-title {
+    padding-top: 10px;
+}
+
+.card-body {
+    padding: 10px;
+    text-align: center;
+}
+
+.card-body:hover {
+    box-shadow: 0px 0px 2px 0px;
+    transform: scale(1.02);
+}

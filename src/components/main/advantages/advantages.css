@@ -1,0 +1,29 @@
+.d-grid-features img {
+    width: 250px;
+    height: 305px;
+    object-fit: cover;
+    border-radius: 4px;
+}
+
+.container-ourAdvantages {
+    margin-top: 70px;
+}
+
+.container-ourAdvantages>img {
+    margin-bottom: 70px;
+    margin-left: 112px;
+}
+
+.d-grid-features {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-left: 87px;
+}
+
+.d-grid-features>div {
+    display: flex;
+}
+
+.features-title-text {
+    margin-left: 25px;
+}
