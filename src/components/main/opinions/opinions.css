@@ -1,0 +1,25 @@
+.opinionsOfStudents>.flex-cards img {
+    width: 100px;
+    height: 107px;
+    object-fit: contain;
+    border-radius: 16px;
+}
+
+.flex.imageAndDiv {
+    display: flex;
+}
+
+.flex-cards {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.opinionsIcon {
+    margin-top: 100px;
+    margin-left: 108px;
+    margin-bottom: 70px;
+}
+
+.opinionsIcon img {
+    width: 240px;
+}

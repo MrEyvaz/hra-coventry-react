@@ -1,0 +1,12 @@
+.horizontal-rule {
+    border: 1px solid rgb(66, 167, 191);
+}
+
+.container {
+    margin-top: 70px;
+}
+
+.lastFooter-text {
+    display: flex;
+    justify-content: center;
+}
